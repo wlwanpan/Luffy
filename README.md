@@ -1,7 +1,9 @@
 # Luffy
 
-Installation: python 2.7 (64bit) (https://www.python.org/download/releases/2.7/)
-              pyGame 2.7 (64bit) (http://www.pygame.org/download.shtml)
+Installation Requirement: 
+
+- python 2.7 (64bit) (https://www.python.org/download/releases/2.7/)
+- pyGame 2.7 (64bit) (http://www.pygame.org/download.shtml)
               
 Simply run the 'main.py' file.
 
