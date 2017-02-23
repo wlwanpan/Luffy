@@ -1,5 +1,7 @@
 # Luffy
 
+- Its a mini retro indie game based on the anime One Piece. 
+
 Installation Requirement: 
 
 - python 2.7 (64bit) (https://www.python.org/download/releases/2.7/)
